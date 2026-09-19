@@ -1,0 +1,83 @@
+# Engineering Statistics Summary - ES
+**Prepared and compiled by:** Bader Khalid Almalki (Industrial Engineering major)[cite: 2]
+
+---
+
+## Table of Contents
+- [Chapter 1: Introduction to Statistics & Data Analysis](#chapter-1-introduction-to-statistics--data-analysis)
+- [Chapter 2: Descriptive Statistics](#chapter-2-criptive-statistics)
+- [Chapter 3: Elements and Theory of Probability](#chapter-3-elements-and-theory-of-probability)
+- [Chapter 4: Random Variables and Probability Distributions](#chapter-4-random-variables-and-probability-distributions)
+- [Chapter 5: Important Discrete Probability Distributions](#chapter-5-important-discrete-probability-distributions)
+- [Chapter 6: Important Continuous Probability Distributions](#chapter-6-important-continuous-probability-distributions)
+
+---
+
+## Chapter 1: Introduction to Statistics & Data Analysis
+- **Statistics:** The art of learning from data[cite: 2].
+- **Types of Variables:**
+  - **Qualitative Data:** Does not have numerical measurements[cite: 2].
+    - *Dichotomic:* Takes the form of a word with two options[cite: 2].
+    - *Polynomic:* Takes the form of a word with more than two options[cite: 2].
+  - **Quantitative Data:** Has a descriptive numerical value[cite: 2].
+    - *Discrete:* Result of counting, takes whole numbers[cite: 2].
+    - *Continuous:* Result of measuring, infinitely divisible[cite: 2].
+- **Sampling Methods:** Simple random, Stratified random, Cluster random, and Systematic random sample[cite: 2].
+
+---
+
+## Chapter 2: Descriptive Statistics
+- **Relative Frequency ($RF$):** 
+  $$RF_i = \frac{F_i}{n}$$[cite: 2]
+- **Class Amplitude ($h$):** 
+  $$h = \frac{\text{Max} - \text{Min}}{m}$$ (where $m = \sqrt{n}$)[cite: 2]
+- **Median for Grouped Data:**
+  $$M_m = i + \left(\frac{\frac{n}{2} - CF}{f}\right)h$$[cite: 2]
+- **Measures of Skewness:**
+  - **Symmetric:** $\text{Mean} = \text{Median}$[cite: 2]
+  - **Left-Skewed (Negative):** $\text{Mean} < \text{Median}$[cite: 2]
+  - **Right-Skewed (Positive):** $\text{Mean} > \text{Median}$[cite: 2]
+
+---
+
+## Chapter 3: Elements and Theory of Probability
+- **Probability Rule:** 
+  $$P(\text{event}) = \frac{\text{Number of Favorable Outcomes}}{\text{Number of Possible Outcomes}}$$[cite: 2]
+- **Permutation (Order matters):** 
+  $$_nP_r = \frac{n!}{(n-r)!}$$[cite: 2]
+- **Combination (Order does not matter):** 
+  $$_nC_r = \frac{n!}{(n-r)! \cdot r!}$$[cite: 2]
+- **Conditional Probability:** 
+  $$P(A|B) = \frac{P(A \cap B)}{P(B)}$$[cite: 2]
+- **Bayes's Rule:** 
+  $$P(I|D) = \frac{P(I)P(D|I)}{P(I)P(D|I) + P(II)P(D|II)}$$[cite: 2]
+
+---
+
+## Chapter 4: Random Variables and Probability Distributions
+- **Expectation (Mean):** 
+  - *Discrete:* $E(X) = \sum x_i P_i$[cite: 2]
+  - *Continuous:* $E(X) = \int x f(x) dx$[cite: 2]
+- **Variance:** 
+  $$\text{Var}(X) = E(X^2) - (E(X))^2$$[cite: 2]
+- **Correlation:** 
+  $$\text{Corr}(X,Y) = \frac{\text{Cov}(X,Y)}{\sqrt{\text{Var}(X)\text{Var}(Y)}}$$[cite: 2]
+
+---
+
+## Chapter 5: Important Discrete Probability Distributions
+- **Binomial Distribution:** 
+  $$P(X=k) = \binom{n}{k} p^k (1-p)^{n-k}$$[cite: 2]
+  - Mean: $\mu = np$[cite: 2]
+  - Standard Deviation: $\sigma = \sqrt{np(1-p)}$[cite: 2]
+- **Geometric Distribution:** 
+  $$P(X=k) = (1-p)^{k-1}p$$[cite: 2]
+  - Mean: $\mu = \frac{1}{p}$[cite: 2]
+
+---
+
+## Chapter 6: Important Continuous Probability Distributions
+- **Continuous Uniform (UNIF):** Mean $\mu = \frac{b+a}{2}$, Variance $\sigma^2 = \frac{(b-a)^2}{12}$[cite: 2]
+- **Exponential Distribution:** $F(X) = \frac{1}{\theta} e^{-\frac{x}{\theta}}$, Mean $\mu = \theta$, Variance $\sigma^2 = \theta^2$[cite: 2]
+- **Standard Normal Distribution:** Standard score formula:
+  $$Z = \frac{X - \mu}{\sigma}$$[cite: 2]
