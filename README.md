@@ -1,2 +1,22 @@
-# Bader-Almalki-ISE
-Academic notes, projects, coding, and resources in Industrial &amp; Systems Engineering
+# Bader Almalki | Industrial & Systems Engineering
+
+Academic notes, projects, coding, and resources in Industrial & Systems Engineering.
+
+## Contents
+
+* Engineering Statistics
+* Engineering Economy
+* Linear Algebra
+* Differential Equations
+* Quality Control
+* Engineering Management
+* Programming
+* Industrial Engineering Projects
+
+## Tools
+
+* Python
+* MATLAB
+* Excel
+* Minitab
+* AutoCAD
