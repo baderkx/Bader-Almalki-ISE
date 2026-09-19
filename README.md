@@ -11,7 +11,6 @@ Academic notes, projects, coding, and resources in Industrial & Systems Engineer
 * Quality Control
 * Engineering Management
 * Programming
-* Industrial Engineering Projects
 
 ## Tools
 
