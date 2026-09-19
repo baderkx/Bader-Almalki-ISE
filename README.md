@@ -5,6 +5,8 @@ Academic notes, projects, coding, and resources in Industrial & Systems Engineer
 ## Contents
 
 - Engineering Statistics
+- [Engineering Statistics Summary](Engineering%20Statistics/Summary.md)
+- [Project Data (Excel)](Engineering%20Statistics/Project/products_data.xlsx)
 - Engineering Economy
 - Engineering Management
 - Quality Control
