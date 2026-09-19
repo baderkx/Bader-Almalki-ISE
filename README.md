@@ -4,18 +4,17 @@ Academic notes, projects, coding, and resources in Industrial & Systems Engineer
 
 ## Contents
 
-* Engineering Statistics
-* Engineering Economy
-* Linear Algebra
-* Differential Equations
-* Quality Control
-* Engineering Management
-* Programming
+- Engineering Statistics
+- Engineering Economy
+- Engineering Management
+- Quality Control
+- Multivariable Calculus
+- Linear Algebra
+- Fundamentals of Computer Programming
 
 ## Tools
 
-* Python
-* MATLAB
-* Excel
-* Minitab
-* AutoCAD
+- MATLAB
+- AutoCAD
+- Minitab
+- Excel
